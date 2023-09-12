@@ -1,5 +1,7 @@
 ### Hi there 👋
-hello
+hello my name is sobogil
+I am studying computer engineering at Seoul National University of Science and Technology.
+I am currently in the second grade and I want to gain a lot of knowledge through this lecture.
 <!--
 **sobogil/sobogil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
