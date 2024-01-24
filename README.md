@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86bfc6,100:050505&height=180&text=Welcome&animation=&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:93d2ce,100:d37ed0&height=240&text=Welcome&animation=&fontColor=ffffff&fontSize=70" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there 👋 </h2>  
@@ -11,8 +11,8 @@
           </div>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=sobogil&bg_color=60,fec8c8,c29e9e&title_color=623c77&text_color=623c77"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobogil&layout=compact&bg_color=60,fec8c8,c29e9e&title_color=623c77&text_color=623c77"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=sobogil&bg_color=60,fec8c8,b4c29e&title_color=623c77&text_color=623c77"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobogil&layout=compact&bg_color=60,fec8c8,b4c29e&title_color=623c77&text_color=623c77"
            /> </div> 
     </div>
     
