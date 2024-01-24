@@ -4,6 +4,16 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there 👋 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Welcome I am studying computer science at Seoul National University of Science and Technology. </div> 
+
+
+
+
+
+
+
+
+
+                      
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33; padding: 50px;"> sotomas232@gmail.com</div>
     </div>
     <div align= "center">
