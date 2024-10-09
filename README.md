@@ -2,8 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:93d2ce,100:d37ed0&height=240&text=Welcome&animation=&fontColor=ffffff&fontSize=70" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there 👋 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Welcome I am studying computer science at Seoul National University of Science and Technology. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
