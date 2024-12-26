@@ -1,6 +1,8 @@
 <div>
     <img src="https://github.com/user-attachments/assets/4d6bcea0-6eb7-4e3a-8491-f039b51efa3b">
 </div>
+
+[![Solved.ac_profile](http://mazassumnida.wtf/api/generate_badge?boj=sotomas232)](https://solved.ac/sotomas232)
 <img src="http://mazandi.herokuapp.com/api?handle=sotomas232&theme=warm"/>
 
 <h3 align="center"> Tech Stack </h3>
