@@ -11,6 +11,6 @@
     </div>
 <hr>
 <div align="center">
-    Email: sotomas232@gmail.com <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsobogil%2Fhit-counter&count_bg=%23C253C2&title_bg=%23FFCC1A&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsobogil%2Fhit-counter&count_bg=%23C253C2&title_bg=%23FFCC1A&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 </div>
