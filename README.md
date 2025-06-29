@@ -5,5 +5,5 @@
     <img src="http://mazandi.herokuapp.com/api?handle=sotomas232&theme=warm"/>
     </div>
 <div align="center">
-
+    일단 열심히 사는중
 </div>
